@@ -27,7 +27,7 @@ const Navbar = () => {
               font.className,
             )}
           >
-            My AI Teacher
+            clarifAI
           </h1>
         </Link>
       </div>
